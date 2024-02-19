@@ -2,7 +2,6 @@ from pytube import YouTube
 import os
 
 def download_audio(url, output_path='music_folder'):
-    os.makedirs(output_path, exist_ok=True)
     try:
         yt = YouTube(url)
 
