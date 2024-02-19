@@ -2,7 +2,7 @@ install requirements
 ```
 pip install -r requirements.txt
 ```
-install ffmpeg from this link <[https://www.gyan.dev/ffmpeg/builds/](url)>
+install ffmpeg from this link <[https://www.gyan.dev/ffmpeg/builds/](url)> or <[https://www.ffmpeg.org/download.html](url)>
 and set the path in Environment Variable for windows users
 put link in link.txt and then run 
 ```
